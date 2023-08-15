@@ -1,0 +1,94 @@
+.heading
+{
+    width: 100%;
+    font-size: 30px;
+    margin: 0;
+    box-shadow: 5px 5px 5px gray;
+    height: 80px;
+}
+
+#Instructions
+{
+    float: right;
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid white;
+    box-shadow: 2px 2px 2px gray;
+    margin-top: 0;
+    background-image: linear-gradient(to bottom, rgba(255, 193, 7, 1), rgba(0, 221, 255, 0.5));
+}
+
+#Game_Start
+{
+    margin-left: 45%;
+    box-shadow: 3px 3px 3px gray;
+}
+
+body
+{
+    background-size: cover;
+    
+}
+
+canvas
+{
+    border: 3px solid white;
+}
+
+.status
+{
+    padding-left: 50%;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+h4
+{
+    background-color: brown;
+    line-height: 2;
+    margin: 0%;
+    border: 2px dashed palevioletred;
+    border-radius: 20px;
+    color:rgb(201, 211, 4);
+}
+
+.modal-body
+{
+    background-color: rgb(151, 0, 58);
+    border: 2px dashed palevioletred;
+    border-radius: 20px;
+    color: rgb(154, 87, 221);
+}
+
+#status
+{
+    margin-left: 50%;
+}
+
+#Instructions
+{
+    margin-left: 50%;
+}
+
+#Start
+{
+    margin-left: 50%;
+}
+
+#restart
+{
+    margin-left: 50%;
+}
+
+.container
+{
+    background-color: rgba(255, 255, 255, 0.264);
+    width: 80%;
+    margin-left: 9.4%;
+    border-radius: 20px;
+    justify-content: center;
+    border: 2px solid salmon;
+}
